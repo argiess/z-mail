@@ -1,0 +1,155 @@
+@import url(./style.css);
+
+/* HERO MEDIA */
+@media (max-width: 900px){
+    .hero{
+        height: 120vh;
+        padding-bottom: 0;
+    }
+    .hero .div1 p{
+        padding: 0 3.5rem;
+    }
+}
+@media (max-width: 500px) {
+    #hero{
+        height: 100vh;
+    }
+    .hero .div1 h1{
+        font-size: 4rem;
+    }
+    .hero .div1 p{
+        font-size: 1.3rem;
+        padding: 0 2rem;
+    }
+    .hero .div1 a{
+        font-size: 1.3rem;
+    }
+}
+
+/* BENEFITS MEDIA */
+@media (max-width: 900px){
+    .benefits .benefits-card{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .benefits-card .cards-row{
+        max-width: 100%;
+    }
+}
+
+
+/* WEBSITE TEMPLATES MEDIA */
+@media (max-width: 1000px) {
+    .templates .templates-card{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 700px) {
+    .templates .templates-card{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+
+/* OTHER SERVICES MEDIA */
+
+
+/* REVIEWS MEDIA */
+@media (max-width: 400px) {
+    .review-card .info{
+        flex-direction: column;
+    }
+}
+
+
+/* CONTACT MEDIA */
+@media (max-width: 1100px) {
+    .contact .contact__form{
+        gap: 5rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .contact__form .div2{
+        gap: 2.5rem;
+    }
+}
+
+@media (max-width: 630px) {
+    .contact__form .div2{
+        gap: 1rem;
+    }
+    .contact__form .div2 i{
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .contact__form .div2{
+        gap: 0;
+        padding: 2rem 2.5rem;
+    }
+    .contact__form .div2 i{
+        font-size: 3rem;
+    }
+    .contact__form .div2 h2{
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 456px) {
+    .contact{
+        padding: 4rem 4%;
+    }
+    .contact__form input, .contact__form textarea{
+        width: 30rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .contact .contact__form{
+        gap: 0;
+    }
+    .contact__form .div2{
+        flex-wrap: wrap;
+        padding: 1.5rem 2.5rem;
+        border: none;
+        box-shadow: none;
+    }        
+    .contact__form .div2 i{
+        font-size: 2.5rem;
+    }
+    .contact__form .div1{
+        border: none;
+        box-shadow: none;
+    }
+}
+
+
+/* FOOTER MEDIA */
+@media (max-width: 700px) {
+    .footer{
+        flex-direction: column-reverse;
+    }
+}
+@media (max-width: 410px) {
+    .footer .legals{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: .5rem;
+    }
+    .footer .legals a{
+        font-size: 1.3rem;
+    }
+}
+
+@media (prefers-color-scheme: dark) { 
+    body{
+        color: var(--color1) !important;
+        background: var(--color2) !important;
+    }
+    img{
+        filter: none !important;
+    }
+}

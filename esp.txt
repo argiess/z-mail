@@ -1,0 +1,31 @@
+HTML email dev is a high-value skill in a world where most people hate dealing with it.
+Highest ROI of any marketing channel.
+
+✔️ Low competition
+✔️ High demand
+✔️ Reusable & scalable
+✔️ Easy to niche down
+✔️ Perfect for passive income or client work
+
+🧠 So, is it the best type of email/digital marketing?
+✔️ YES for conversions + long-term ROI
+✔️ YES for building relationships + trust at scale
+✔️ YES for freelancers, businesses, and stores
+
+| Use Case                                      | Best ESP       |
+| --------------------------------------------- | -------------  |
+| All-around tool for freelancers/agencies      | Mailchimp      |
+| Affordable, good automation, SMS + email      | Brevo          |
+| Best for eCommerce (Shopify, WooCommerce)     | Klaviyo        |
+
+| Goal                                           | Best ESP      |
+| ---------------------------------------------- | ------------- |
+| Selling HTML templates to general users        | Mailchimp     |
+| Budget-friendly email/SMS for small businesses | Brevo         |
+| High-ROI eCommerce campaigns (Shopify, etc.)   | Klaviyo       |
+
+👍 Mailchimp – Best for creating editable HTML templates that clients can use with drag-and-drop. Great for freelance/agency work and client handoffs.
+
+👍 Brevo – Best if you want low-cost campaigns with good automation, or if you or your clients need SMS + Email campaigns in one place.
+
+🔥 Klaviyo – Best if your clients run online stores. Deep eCommerce integration, dynamic content, and email/SMS automation built for conversions.
